@@ -2,5 +2,5 @@ Name : Jannat Ara Ahamed
 Id : 24-58520-2
 Department : Computer Science and Engineering
 Books Record : 1. Python
-               2. Business Communication
+          
                3. Electronic circuits and Devices
